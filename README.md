@@ -31,7 +31,7 @@ SCHEMATIC:
 <img width="1427" height="847" alt="Screenshot 2026-02-01 at 11 57 50 AM" src="https://github.com/user-attachments/assets/b929cc6c-e459-453a-97f7-5c1db93e93b5" />
 
 PCB:
-<img width="1191" height="919" alt="Screenshot 2026-01-31 at 9 34 10 PM" src="https://github.com/user-attachments/assets/6f411b88-0ced-4ef8-a5d7-7861b66d14d6" />
+<img width="1610" height="721" alt="Screenshot 2026-02-01 at 12 03 21 PM" src="https://github.com/user-attachments/assets/fe4d5e41-a235-4ead-a2c6-8e4589fca0fe" />
 
 TOP CASE:
 <img width="1572" height="945" alt="Screenshot 2026-01-31 at 9 33 07 PM" src="https://github.com/user-attachments/assets/2a4948ac-c701-456a-8abf-832fb1f49adf" />
