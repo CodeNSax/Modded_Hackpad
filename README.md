@@ -3,12 +3,11 @@ This is the repo for my Saxpad™, a test project to learn a bit before commitin
 It is a shortcut pad with a bare-bones design to show off all the (very cool) internals.
 
 *****THE FINISHED PRODUCT!!!*****
-
+<img width="1062" height="724" alt="Screenshot 2026-02-07 at 4 16 23 PM" src="https://github.com/user-attachments/assets/464f48f8-c45f-48ec-84dc-586e9078e78c" />
 
 
 **INTERNALS:**
 My Hackpad features a 3d printed case for the PCB that houses a XIAO-RP2040-DIP for the microcontroller, MX-Style switches for the keyboard switches, a rotary encoder switch for adjusting things with a knob, and some SK6812MINI LEDs as the backlit RGB.
-<img width="1062" height="724" alt="Screenshot 2026-02-07 at 4 16 23 PM" src="https://github.com/user-attachments/assets/464f48f8-c45f-48ec-84dc-586e9078e78c" />
 
 
 
