@@ -26,7 +26,7 @@ My Hackpad features a 3d printed case for the PCB that houses a XIAO-RP2040-DIP 
 ***And the screenshots...***
 
 SCHEMATIC:
-<img width="979" height="810" alt="Screenshot 2026-02-07 at 10 30 16 AM" src="https://github.com/user-attachments/assets/dc8bbabe-85d7-447f-8e2d-cb5755d142ba" />
+<img width="979" height="810" alt="Schematic" src="https://github.com/user-attachments/assets/fc35afa9-f8c0-41a4-9dbe-81f9a8afbf02" />
 
 PCB:
 <img width="1062" height="724" alt="Screenshot 2026-02-07 at 5 47 20 PM" src="https://github.com/user-attachments/assets/e8f58522-c0a3-4907-8e69-9cdb65453f8a" />
